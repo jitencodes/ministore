@@ -15,6 +15,9 @@
 </div>
 
 <br />
+### Demo Screeshots
+
+![ Desktop Demo](images/demo.png)
 
 ### Prerequisites
 
