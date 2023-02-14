@@ -15,9 +15,12 @@
 </div>
 
 <br />
-### Demo Screeshots
 
-![ Desktop Demo](images/demo.png)
+<h3>Demo Screeshots</h3>
+
+![Desktop Image](https://user-images.githubusercontent.com/86045185/218730342-a01d0f6d-9f3d-4420-b9ee-35ab755c120b.png)
+
+![Mobile Image](https://user-images.githubusercontent.com/86045185/218730563-a48689cb-274d-4e51-8a67-51f923249e40.png)
 
 
 ### Prerequisites
